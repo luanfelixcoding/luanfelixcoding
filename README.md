@@ -1,7 +1,7 @@
 <h1 align="center">Hi folks👋, I'm Luan</h1>
 <h3 align="center">A passionate computer science from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luanfelixcoding&label=Profile%20views&color=0e75b6&style=flat" alt="luanfelixcoding" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luanfelixcoding&label=Profile%20views&color=e4ff1a&style=flat" alt="luanfelixcoding" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luanfelixcoding" alt="luanfelixcoding" /></a> </p>
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanfelixcoding&show_icons=true&locale=en&layout=compact" alt="luanfelixcoding" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanfelixcoding&show_icons=true&locale=en" alt="luanfelixcoding" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanfelixcoding&show_icons=true&theme=dracula&locale=en" alt="luanfelixcoding" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luanfelixcoding&" alt="luanfelixcoding" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luanfelixcoding&theme=dark" alt="luanfelixcoding" /></p>
