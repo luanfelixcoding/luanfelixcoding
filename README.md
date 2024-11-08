@@ -1,10 +1,6 @@
 <h1 align="center">Hi folks👋, I'm Luan</h1>
 <h3 align="center">A passionate computer science from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luanfelixcoding&label=Profile%20views&color=e4ff1a&style=flat" alt="luanfelixcoding" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luanfelixcoding" alt="luanfelixcoding" /></a> </p>
-
 - 🔭 I’m currently working on [my portfolio](LINK)
 
 - 🌱 I’m currently learning **HTML, CSS, C, Python, API, Django, CustomTkinter, NPL,**
