@@ -1,19 +1,17 @@
 <h1 align="center">Hi folks👋, I'm Luan</h1>
 <h3 align="center">A passionate computer science from Brazil</h3>
 
-- 🔭 I’m currently working on [my portfolio](LINK)
+- 🔭 I’m currently working on many personal projects
 
-- 🌱 I’m currently learning **HTML, CSS, C, Python, API, Django, CustomTkinter, NPL,**
+- 🌱 I’m currently learning **C, Python, API, CustomTkinter, Machine Learning(ML),**
 
 - 👯 I’m looking to collaborate on **everything you want and I can**
 
-- 👨‍💻 All of my projects are available at [HERE](HERE)
+- 👨‍💻 All of my projects are available at **HERE**
 
 - 📫 How to reach me **luanfpcoding@gmail.com**
 
-- 📄 Know about my experiences [HERE2](HERE2)
-
-- ⚡ Fun fact **I LIKE IT**
+- ⚡ Fun fact **I LIKE TO CODE WHEN I'M STRESSED**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
