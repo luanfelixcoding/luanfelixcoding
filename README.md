@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on many personal projects
 
-- 🌱 I’m currently learning **C, Python, API, CustomTkinter, Machine Learning(ML),**
+- 🌱 I’m currently learning **C, Python, API, Machine Learning(ML),**
 
 - 👯 I’m looking to collaborate on **everything you want and I can**
-
-- 👨‍💻 All of my projects are available at **HERE**
 
 - 📫 How to reach me **luanfpcoding@gmail.com**
 
