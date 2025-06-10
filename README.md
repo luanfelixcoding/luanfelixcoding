@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on many personal projects
 
-- 🌱 I’m currently learning **C, Python, API, Machine Learning(ML),**
+- 🌱 I’m currently learning **C, Python, API, Data Science,**
 
 - 👯 I’m looking to collaborate on **everything you want and I can**
 
