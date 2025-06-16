@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on many personal projects
 
-- 📚 I’m currently learning **Python, API, Data Science and C**
+- 📚 I’m currently learning **Python, API, Data Science, AI and Process automation**
 
 - 🌐 I try to collaborate on **everything you want and I can**
 
