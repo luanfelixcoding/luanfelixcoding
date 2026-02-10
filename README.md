@@ -3,13 +3,11 @@
 
 - 💻 I’m currently working on many personal projects
 
-- 📚 I’m currently learning **Python, API, Data Science, AI and Process automation**
+- 📚 I’m currently learning **Python, Backend, Data Science and AI**
 
 - 🌐 I try to collaborate on **everything you want and I can**
 
 - 📫 How to reach me **luanfpcoding@gmail.com**
-
-- ⚡ Fun fact **I LIKE TO CODE WHEN I'M STRESSED**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,16 +25,10 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Overall:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanfelixcoding&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="luanfelixcoding" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanfelixcoding&show_icons=true&theme=dracula&locale=en" alt="luanfelixcoding" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luanfelixcoding&theme=dark" alt="luanfelixcoding" /></p>
